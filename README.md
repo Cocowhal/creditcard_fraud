@@ -1,5 +1,5 @@
 # creditcard_fraud: A data science project
-
+![Logo](./main/examplepng.png)
 ### Context:
 To ensure that customers are not wrongly charged for unauthorized purchases, credit card companies must be able to detect fraudulent credit card transactions effectively.
 
